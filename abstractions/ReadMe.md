@@ -1,5 +1,10 @@
 # Organisation
 
+## Level of abstractions
+1st level: overview, needs, wants, 
+2nd level: business analyses, industry, state-of-the-art, communication, leadership
+3rd level: subsystems, software requirements, specifications
+
 ## Tools
 ChatGPT, Draw.io, GitHub, Jira/Kanban, Notion
 Science Paper Library, StackOverflow/HashNode

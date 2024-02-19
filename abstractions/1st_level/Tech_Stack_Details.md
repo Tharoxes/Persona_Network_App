@@ -39,7 +39,8 @@ Content Creator Space ist für all jene, die sich auf Social Media, Youtube, Pod
 ### Professor Persona
 
 Dieser Bereich stellt einen privaten Handelsplatz bereit für Austausch von vielen Gütern dar. Der wichtigste Aspekt ist die Einrichtung hoher Sicherheit Funktionen und Backup Strategien. Essenziell ist die Wahrung der Integrität des Handeln eines jeden. Mitunter ähnlichen Konzepten aus den Services der anderen Personas haben die Services dieser Persona erweiterte Funktionen:
-- Handeln von Güter (Protokoll als Zeugnis des Handels)
+- Handelsplatz (Protokoll als Zeugnis des Handels)
+- Zahlungsvorgänge
 - Mindset (!missing Definition)
 - Skill Vorstellung
 - Questbrett
