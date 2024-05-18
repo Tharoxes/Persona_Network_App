@@ -1,9 +1,23 @@
-# Persona Principle
+# Aspekte in den Lernmethoden
 
-## Zweck und Nutzen
+- Neurologie/Physiologie
+- Psychologie
+- Sozialwissenschaft
+- Handel
+
+## Dimensionen
+
+- Resourcen
+- Kapazität
+- Zeit
+- Beziehungen
+- Finanzen
+- Emotion
 
 ## Anforderungen
 
-## System
+- Realitätsbezug
 
-# Ökosystem
+## Überblick
+
+### Erfahrungsberichte (Links)
