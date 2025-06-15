@@ -1,29 +1,44 @@
-# Teaching & Mentoring
+# Aspekte in den Lernmethoden
 
-There are always suitable methods learning new skills for benefits. What's important is to have the right mindset with rich values. That state serves as a baseline. Therefore, autonomy should be secured as one resilient mechanism for manipulation. 
+## Wissenschaftsbereiche
+- Neurologie/Physiologie
+- Psychologie
+- Sozialwissenschaft
+- Ökonomie
+- Geschichte
 
-## Needs and Usage
+## Ansammlung an bekannten Funktion, Methoden oder Konzepte für effektives Lernen
 
-Opportunities do not come from nowhere, because the skill forging luck against all odds counts as the hope of human nature. The atomic unit to start with is the thought. Assume, we are able to shape our thoughts and by that our decisions and actions, then we can express precisely for the sake of comprehension. We are able to evaluate consciously the influence of our environment. In simple terms: When we act consciously to receice valuable feedback/experiences, then we can shape our mind or grow by opportunities, we create. 
+- Pomodoro
+- Pareto Prinzip 20/80
+- Einsatz von Pausen
+- Interesse am High-level Konzepten zu Basisverständnis
+- 0riming
+- Active Recall/Anwendungsorientiert
+- Projekt basierend
+- Space Repetition
+- Fallstudien
+- Flooding (learning like doctors)
+- Storytelling of chains of factors and processes
+- Zweck oder Big Picture sehen
+- Failure as your greatest teacher
+- continuous feedback
+- lay personal standards / pursue similar ways to mentors
 
-## Who is suitable?
 
-I guess, acknowledgement comes by proofing it. Whatever it might be.
+## Dimensionen
 
-## What does it cost?
+- Resourcen (Umgebung, Material )
+- Kapazität
+- Zeit
+- Beziehungen
+- Finanzen
+- Emotion
 
-Nothing and everything. This perspective of the cost comes from the personal initial conditions and state in life. What I want to highlight, is the opportunity to see something in someone, that is worth to care about. 
+## Anforderungen
 
-### general Subjects
+- Realitätsbezug
 
-- communication
-- negotiation
-- persuasion
-- seek for insights
-- sales
-- fundamental anatomy (muscle, nervous system)
-- nutrition
+## Überblick
 
-### specific Subjects
-
-It is recommended to find someone suitable to get a general view and be enlighten about the outcome of learning that subject/skill for your benefit. 
+### Erfahrungsberichte (Links)
